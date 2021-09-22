@@ -1,7 +1,3 @@
-"SAGDP1 Gross Domestic Product (GDP) summary, annual by state",,,,,,,,,,,,,,,,,,,,,,,,,
-Real Gross Domestic Product (GDP) (Millions of chained 2012 dollars) ,,,,,,,,,,,,,,,,,,,,,,,,,
-Bureau of Economic Analysis ,,,,,,,,,,,,,,,,,,,,,,,,,
-State or DC,,,,,,,,,,,,,,,,,,,,,,,,,
 GeoFips,GeoName,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009,2010,2011,2012,2013,2014,2015,2016,2017,2018,2019,2020
 0,United States,11521938,12038283,12610491,13130987,13262079,13493064,13879129,14406382,14912509,15338257,15626029,15604687,15208834,15598753,15840664,16197007,16495369,16912038,17432170,17730509,18144105,18687786,19091662,18426076
 1000,Alabama,144457.3,149613.2,155171.9,157697.7,157137.9,161258,165250.5,175916.8,181871,185337,186499.4,185280.6,178893.4,183014.5,185666.9,186553.9,188814.2,187568,189428.8,191523.4,193693,198053.7,200829.4,195474.7
@@ -63,6 +59,3 @@ GeoFips,GeoName,1997,1998,1999,2000,2001,2002,2003,2004,2005,2006,2007,2008,2009
 96000,Southwest,1221677.4,1293752.9,1351327.7,1401130.9,1433998.2,1466083.3,1491272.9,1566811.3,1621977.5,1724273.5,1800198,1799323.4,1772983.6,1805770.3,1859237.4,1939399.5,2003922.4,2068424.7,2162768.2,2178408.5,2234576.5,2317630.1,2386060.9,2307729.8
 97000,Rocky Mountain,356134.6,381666.8,405660.7,432679.8,437856.7,442819.2,449790,462436.8,486269.5,508336.8,528487.8,533763.5,521301.2,527198.1,534554.7,540617.5,555700.5,574822.4,598732.2,612042.5,634833.8,663932.3,687941.6,677826.4
 98000,Far West,1954064.3,2070919,2215045.7,2361405.8,2352919.5,2407810.1,2508723.5,2613544.6,2742033.9,2860107,2918354.9,2927314.5,2817085.3,2861634.4,2909467.2,2978323.8,3064232.5,3181845.2,3341931.9,3455461.8,3605311.7,3738194.2,3864650.3,3760102.5
-Legend / Footnotes:,,,,,,,,,,,,,,,,,,,,,,,,,
-"Real GDP is in millions of chained 2012 dollars. Calculations are performed on unrounded data. Chained (2012) dollar series are calculated as the product of the chain-type quantity index and the 2012 current-dollar value of the corresponding series, divided by 100. Because the formula for the chain-type quantity indexes uses weights of more than one period, the corresponding chained-dollar estimates are usually not additive. The difference between the United States and sum-of-states reflects federal military and civilian activity located overseas, as well as the differences in source data used to estimate GDP by industry and the expenditures measure of real GDP.",,,,,,,,,,,,,,,,,,,,,,,,,
-"Last updated: March 26, 2021-- new statistics for 2020.",,,,,,,,,,,,,,,,,,,,,,,,,
